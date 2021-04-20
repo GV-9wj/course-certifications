@@ -1,6 +1,6 @@
 # Course-certifications
 Within this repository are a list of all my course certifications and also credential urls for the same
-
+~~~
 1. **IBM Data Science Professional Certificate [CREDENTIAL URL](https://www.coursera.org/account/accomplishments/specialization/JZD2K4WG4F2F)**
   i. What is Data Science - [Credential URL](https://www.coursera.org/account/accomplishments/verify/9F2TPZSJ6H23)
   ii. Open Source Tools for Data Science [Credential URL](https://www.coursera.org/account/accomplishments/verify/4DA6RTTV968Q)
@@ -44,3 +44,4 @@ Within this repository are a list of all my course certifications and also crede
   ix. [Discrete Mathematics and Analysing social Graphs](https://www.coursera.org/account/accomplishments/verify/U7A9NEP7ZKMC)
   x. [**Introduction to Portfolio Construction**](https://www.coursera.org/account/accomplishments/verify/8Z8PAMTLA9PG)
   xi. [Learning how to learn](https://www.coursera.org/account/accomplishments/verify/NBPMWGY9ZJTL)
+~~~
