@@ -46,3 +46,12 @@ Within this repository are a list of all my course certifications and also crede
     9. [Discrete Mathematics and Analysing social Graphs](https://www.coursera.org/account/accomplishments/verify/U7A9NEP7ZKMC)
     10. [**Introduction to Portfolio Construction**](https://www.coursera.org/account/accomplishments/verify/8Z8PAMTLA9PG)
     11. [Learning how to learn](https://www.coursera.org/account/accomplishments/verify/NBPMWGY9ZJTL)
+
+
+
+## EdX Courses 
+1. **Data Science with R from HarvardX**
+    1. [PH125.2x: Data Science: Visualization](https://courses.edx.org/certificates/bba644857ba5425e987c0ebc49355352)
+    2. [PH125.3x: Data Science: Probability](https://courses.edx.org/certificates/0e5c09a533b443d69e1fe17420cfe816)
+    3. [PH125.4x: Data Science: Inference and Modeling](https://courses.edx.org/certificates/b80292e477754c238d20299870b52a1c)
+    4. [PH125.5x: Data Science: Productivity Tools](https://courses.edx.org/certificates/e8dceaa5cfe340e6a7811bc482755c9b)
